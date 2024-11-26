@@ -1,0 +1,25 @@
+body {
+    background-color: #00CBEB;
+    color: #328896;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main {
+    background-color: #FFF;
+    border-radius: 15px;
+    padding: 24px;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+#answer {
+    color: #00CBEB;
+    font-size: 5rem;
+}
+
+p {
+    margin: 12px;
+
+}

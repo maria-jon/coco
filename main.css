@@ -47,38 +47,6 @@ p {
     font-style: italic;
 }
 
-aside {
-    background-color: #FFF;
-    border-radius: 15px;
-    padding: 24px;
-    max-width: 80%;
-    margin: auto;
-    margin-top: 5vh;
-    color: #004E5A;
-}
-
-aside h2 {
-    font-size: 2rem;
-}
-
-
-.cleaning-list {
-    display: flex;
-    flex-direction: column;
-    overflow: auto;
-}
-
-.cleaning-list h2 {
-    text-align: center;
-}
-
-.cleaning-list label {
-    float: right;
-}
-
-fieldset {
-    border: none;
-}
 
 .material-symbols-outlined {
   font-variation-settings:

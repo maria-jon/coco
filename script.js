@@ -7,12 +7,14 @@ function isCoco() {
     if (today.getDay() == 1 || today.getDay() == 3 || today.getDay() == 4 || today.getDay() == 6) {
         console.log('Ja!');
         answer.innerHTML += `
-        <p>Ja!</p>
+        <h2>Ja!</h2>
+        <p>Det är Coco idag, passa på att plocka undan!</p>
         `;
     } else {
         console.log('Nej!');
         answer.innerHTML += `
-        <p>Nej!</p>
+        <h2>Nej!</h2>
+        <p>Det är inte Coco idag. Men man kan passa på att städa ändå.</p>
         `;
     }
 

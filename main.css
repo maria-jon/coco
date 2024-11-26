@@ -8,18 +8,23 @@ main {
     background-color: #FFF;
     border-radius: 15px;
     padding: 24px;
+    max-width: 80%;
+    margin: auto;
 }
 
 h1 {
     font-size: 2.5rem;
 }
 
+h2 {
+    font-size: 5rem;
+    margin: 12px;
+}
+
 #answer {
     color: #00CBEB;
-    font-size: 5rem;
 }
 
 p {
     margin: 12px;
-
 }
